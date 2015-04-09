@@ -15,6 +15,7 @@
         [-] edu
             [+] harvard
             [+] stanford
+            [+] Russian university of friendship of the people
         [-] uk
             [-] ac
                 [+] strath
